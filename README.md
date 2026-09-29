@@ -17,6 +17,6 @@
 | `Enum.TryParse<Rank>("Joker", out var r)` | `false`, без исключения |
 
 # Результаты
-![Результат КТ13](Screenshots/RESULT_KT13.png)
+![Результат КТ13](StructuresAndEnums_KT13/Screenshots/RESULT_KT13.png)
 
-![Результат КТ13 — проверка](Screenshots/RESULT_KT13_1.png)
+![Результат КТ13 — проверка](StructuresAndEnums_KT13/Screenshots/RESULT_KT13_1.png)
